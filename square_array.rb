@@ -1,6 +1,5 @@
 def square_array(array)
   # your code here
-  array.each { |number| print number * number,
-  " "}
+  array.each { |number| print number * number, " "}
 
 end
